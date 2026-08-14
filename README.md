@@ -135,17 +135,11 @@ Brand and packaging design across physical and digital product touchpoints.
 
 ---
 
-## ◈ GitHub Stats
+## ◈ GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shihabsaleem&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&rank_icon=github" height="165" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihabsaleem&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&langs_count=6" height="165" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=shihabsaleem&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8&sideNums=e2e8f0&currStreakNum=e2e8f0" alt="GitHub Streak"/>
+[![Repositories](https://img.shields.io/badge/View%20All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shihabsaleem?tab=repositories)
 
 </div>
 
